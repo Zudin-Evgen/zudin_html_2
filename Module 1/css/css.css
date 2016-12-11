@@ -5,14 +5,14 @@ body{
 .cv{
     font-family: Verdana;
     width: 620px;
-    display:block;
-    margin: 0 auto;
+    margin:auto;
+}
+.inline-center{
+    text-align: center;
 }
 .photo{
     width: 200px;
     border:1px solid darkslategray;
-    margin:0 auto;
-    display:block;
 }
 div div{
     border-bottom:1px solid lightgray;
@@ -25,12 +25,9 @@ div div{
 .gray{
     color:gray;
 }
-.center{
-    text-align:center;
-}
 li{
     padding-left:10px;
 }
-.paragraph{
+.otstup{
     margin-left:50px;
 }
