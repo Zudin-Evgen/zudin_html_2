@@ -1,0 +1,33 @@
+body{
+    background:url("../img/pattern.png");
+    margin:0;
+}
+.cv{
+    font-family: Verdana;
+    width: 620px;
+    margin:auto;
+}
+.inline-center{
+    text-align: center;
+}
+.photo{
+    width: 200px;
+    border:1px solid darkslategray;
+}
+div div{
+    border-bottom:1px solid lightgray;
+}
+.link{
+    font-style:italic;
+    margin-left:50px;
+    color:blue;
+}
+.gray{
+    color:gray;
+}
+li{
+    padding-left:10px;
+}
+.otstup{
+    margin-left:50px;
+}
